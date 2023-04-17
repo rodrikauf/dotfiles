@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rodrigorkauf@gmail.com
+	name = rodrigo kaufmann
